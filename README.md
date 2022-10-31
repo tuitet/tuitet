@@ -1,5 +1,5 @@
 ### Hi, I’m Tim 👋
-- 👀 I’m interested in applying analytics to solve business problems.
+- 👀 I’m passionate about designing and implementing analytics solutions to solve business problems.
 - 🌱 I’m currently working as a Senior SAP Consultant while completing Georgia Tech's Master's in Analytics program.
 - :movie_camera: Projects in this Github include:
   - :health_worker: Classifying Covid-19 Variant based on underlying demographic and medical factors using various classification methods.
