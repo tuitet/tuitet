@@ -1,7 +1,9 @@
 ### Hi, I’m Tim 👋
 - 👀 I’m passionate about designing and implementing analytics solutions to solve business problems.
 - 🌱 I’m currently working as a Senior SAP Consultant while completing Georgia Tech's Master's in Analytics program.
-- :movie_camera: Projects in this Github include:
+- :movie_camera: Key projects in this Github include:
+  - 💸: Predicting likelihood of a customer purchasing a product based on customer attributes. 
+  - 🏠: Visualizing house price changes over time based on historic Zillow data. 
   - :health_worker: Classifying Covid-19 Variant based on underlying demographic and medical factors using various classification methods.
   - :football: Inferring relationship between fantasy football score and underlying advanced statistics using Bayesian regression. 
 - :basketball: I love sports (go Mets, Knicks, Vikings!) and Jeopardy! :zap:
